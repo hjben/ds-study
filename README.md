@@ -1,4 +1,3 @@
-# python-study
-
-Study notes about python codes, which is especially related to Data science (Analytics & Engineering).   
-These codes are tesed on Linux-based OS (MacOS).
+# ds-study
+Code study notes, which are especially related to Data Science (Analytics & Engineering).   
+These codes are mainly composed of Python and tested on Linux-based OS (MacOS).
